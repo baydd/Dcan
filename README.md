@@ -7,7 +7,7 @@
 ## 🇹🇷 Türkçe Açıklama
 
 ### 🎯 Amaç
-DCan, Unreal Engine üzerinde:
+DCan
 - Gerçek dünya fizik kurallarını simüle eder
 - Binlerce deneyi aynı anda çalıştırır
 - AI ile en iyi sonucu bulur ve kendini geliştirir
@@ -15,7 +15,7 @@ DCan, Unreal Engine üzerinde:
 - **Kendi kodunu düzenleyip optimize ederek evrim geçirir**
 
 ### 🧠 Kullanılan Teknolojiler
-- ✅ Unreal Engine 5 (Headless Mode)
+- ✅ pygame (Headless Mode)
 - ✅ Python 3.10+
 - ✅ PyTorch + Stable Baselines3
 - ✅ Docker + Kubernetes
@@ -36,14 +36,14 @@ DCan, Unreal Engine üzerinde:
 
 ### 🎯 Purpose
 DCan is an open-source AI project that:
-- Simulates real-world physics using Unreal Engine
+- Simulates real-world physics using pygame
 - Runs thousands of parallel experiments
 - Evolves its own strategies and logic through AI
 - Generates mathematical equations to optimize systems
 - **Modifies and improves its own source code automatically**
 
 ### 🧠 Technologies Used
-- ✅ Unreal Engine 5 (Headless Simulation)
+- ✅ pygame (Headless Simulation)
 - ✅ Python 3.10+
 - ✅ PyTorch + Stable Baselines3
 - ✅ Docker + Kubernetes
