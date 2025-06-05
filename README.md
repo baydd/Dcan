@@ -1,6 +1,6 @@
 # DCan: Gerçekçi Simülasyonlarla Kendi Kendine Gelişen Yapay Zeka Sistemi
 
-**DCan**, Unreal Engine ortamında fiziksel deneyler yürüten, yapay zekâ destekli, kendi kodunu analiz edip yeniden yazabilen ve kendi kendini geliştiren açık kaynaklı bir deneysel yapay zekâ projesidir.
+**DCan**,  fiziksel deneyler yürüten, yapay zekâ destekli, kendi kodunu analiz edip yeniden yazabilen ve kendi kendini geliştiren açık kaynaklı bir deneysel yapay zekâ projesidir.
 
 ---
 
